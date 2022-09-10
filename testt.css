@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    border: 0;
+    }
+
+    #bild{
+        height: 400px;
+        
+    }
+
+    .überschrift {
+        margin-top: 20px;
+        font-size: 80px;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        color: khaki;
+        text-align: center;
+        background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*y7lsas*_ga*MTcwNjA2MDM0OS4xNjYwNjUyNTE3*_ga_3LRZM6TM9L*MTY2MjczMzY5My4zNC4xLjE2NjI3MzM3MTguMzUuMC4w);
+    }
+
+    .titel {
+        margin-top: 100px;
+        margin-bottom: 40px;
+        font-size: 32px;
+        font-weight: bold;
+        color: white;
+        background-color: aquamarine;
+    }
+    #em {
+        color: blue;
+        font-weight: bold;
+    }
+
+    #brush{
+        margin-top: 20px;
+        font-size: 20px;
+        margin-bottom: 20px;
+
+    }
